@@ -1,0 +1,5 @@
+//in store.js
+
+createStore id deprecrated
+so we have to use 
+import { legacy_createStore as createStore } from "redux";
